@@ -12,6 +12,6 @@
 - **Full-Stack Pizzeria Site** – HTML/CSS/JS + MySQL backend with secure form handling  
 - **Secure Architecture Research** – Confidential computing & post-quantum cryptography insights
 
-⚠️ GitHub activity shown under alias for privacy purposes.<!--
-**SteveHarvey6944/SteveHarvey6944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚠️ GitHub activity shown under alias for privacy purposes.
+
 
