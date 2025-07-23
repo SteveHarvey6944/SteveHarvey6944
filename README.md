@@ -45,7 +45,7 @@ Welcome! I’m Josh Hunt—a cybersecurity-focused professional with a B.S. in C
 ## 🔗 Links & Contact
 
 - [LinkedIn Profile](https://www.linkedin.com/in/your-link-here)
-- [Résumé PDF](https://github.com/SteveHarvey6944/resume.pdf)
+- [Résumé PDF](https://github.com/SteveHarvey6944/SteveHarvey6944/blob/main/Josh_Hunt_Resume_CoverLetter.pdf)
 - [Modular Patch Lifecycle Whitepaper](https://github.com/SteveHarvey6944/whitepaper) *(Coming Soon)*
 
 ---
